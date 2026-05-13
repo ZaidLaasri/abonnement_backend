@@ -2,7 +2,7 @@ package com.saas.abonnement.abonnement_backend.invoice.web;
 
 
 import com.saas.abonnement.abonnement_backend.invoice.dto.InvoiceDto;
-import com.saas.abonnement_abonnement_backend.invoice.service.IInvoiceService;
+import com.saas.abonnement.abonnement_backend.invoice.service.IInvoiceService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
